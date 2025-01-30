@@ -1,4 +1,4 @@
-const API_URL = "https://fastapi-shop.onrender.com";
+const API_URL = "https://fastapi-shop-pfuh.onrender.com";
 
 async function fetchProducts() {
     const response = await fetch(`${API_URL}/products`);
